@@ -12,7 +12,13 @@ Soyez prudent, les êtres supérieurs qui ont construit le monde autour de vous 
     - Les bidons d'essence sont attirés par les planètes, mais n'attirent pas les vaisseaux, quel que soit leur poids.
     - Il est possible d'ajouter des bidons d'essence via l'éditeur de niveaux.
     - Pour être plus attractif, les bidons d'essence tournent sur eux-mêmes.
+    
+    ![imgur](https://i.imgur.com/SCs9Oaj.png)
 3. Pour mieux anticiper vos mouvements, ajoutez un indicateur de trajectoire vous permettant de prédire votre prochaine direction!
+    
+    ![imgur](https://i.imgur.com/EaWz5LG.png)
 4. Vous voulez vous défendre contre les navires ennemis. Equipez votre vaisseau avec un blaster laser.
     - La puissance de votre laser est configurable via l'éditeur et est enregistrée à chaque niveau.
+
+    ![imgur](https://i.imgur.com/B1IjGJF.png)
 5. Parfois, vous n'êtes pas certain si votre navire, ou votre environnement est en mouvement. Surtout quand votre vaisseau est près du bord de votre écran radar. Remplacez l’arrière-plan immobile de votre radar par une parallaxe.
